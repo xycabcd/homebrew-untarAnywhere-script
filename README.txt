@@ -7,3 +7,5 @@ A simple script that untar Homebrew anywhere but in this kind of directory struc
  |- bin
     |- brew
  |- hfdjs;lahfsjdfjklsad
+
+Usage: install.sh path/to/the/directory/you/want/homebrew/to/be
